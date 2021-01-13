@@ -18,6 +18,8 @@ layout: default
 
 ![VVSLAM Block diagram](./assets/vvslam_block.png)
 
+![VVSLAM Block kernel](./assets/vvslam_kernel.png)
+
 VVSLAM Demo Youtube https://youtu.be/EAyqxnwDfD4
 
 
