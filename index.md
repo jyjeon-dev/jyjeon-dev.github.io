@@ -32,6 +32,11 @@ VVSLAM Demo Youtube: [https://youtu.be/EAyqxnwDfD4](https://youtu.be/EAyqxnwDfD4
 VVSLAM Article: [POSTECH Library](https://postech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=82POSTECH_INST21232402040003286&vid=82POSTECH&search_scope=alma_scope&tab=alma_tab&lang=ko_KR&context=L)
 
 
-# Contect
+# Publications
+- J.Young Jeon, et al. "Polygonal symmetry transform for detecting rectangular traffic signs." 2014 14th International Conference on Control, Automation and Systems (ICCAS 2014). IEEE, 2014.
+- J.Young Jeon and Soohee Han. "Virtual Visual SLAM for Real-World Environment." [2020 POSTECH Thesis](https://postech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=82POSTECH_INST21232402040003286&vid=82POSTECH&search_scope=alma_scope&tab=alma_tab&lang=ko_KR&context=L). POSTECH, 2020.
+
+# Contact
 * jyjeon @no_spam@ outlook.com
 * jyjeon @no_spam@ postech.ac.kr
+
