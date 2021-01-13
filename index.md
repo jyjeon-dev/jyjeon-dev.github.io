@@ -27,7 +27,9 @@ In this research, we studied a new Virtual VSLAM for virtual environments and ev
 
 ![VVSLAM Block kernel](./assets/vvslam_kernel.png)
 
-<iframe width="560" height="315" src="https://youtu.be/EAyqxnwDfD4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>VVSLAM Youtube Demo</iframe>
+<iframe width="560" height="315" src="https://youtu.be/EAyqxnwDfD4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>VVSLAM Demo Youtube</iframe>
+
+[https://youtu.be/EAyqxnwDfD4](https://youtu.be/EAyqxnwDfD4)
 
 VVSLAM Article: [POSTECH Library](https://postech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=82POSTECH_INST21232402040003286&vid=82POSTECH&search_scope=alma_scope&tab=alma_tab&lang=ko_KR&context=L)
 
