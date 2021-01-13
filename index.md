@@ -13,7 +13,14 @@ layout: default
 * [AirSim Monitor Setup for C#/WPF](https://github.com/jyjeon-dev/airsimMonitor), 2019
 * [C#/WPF Mahapps.Metro High Performance](https://github.com/jyjeon-dev/flasharpMetro), 2019
 
-# VVSLAM Demo
+# VVSLAM
+
+## Abstract
+
+Visual Simultaneous Localization and Mapping (VSLAM) researchers use or produce public databases to secure enough data. Public databases may not be in the environment that researchers want, so there are many difficult situations. But it takes a lot of time and cost to make a database themselves. If the lane direction of a public database is the opposite direction against the developer’s country, then the use of that database has to be abandoned. And the engineer may want to make every scene in the public database rainy or snowy for extreme VSLAM evaluation. If there is a virtual database that can be manipulated to fit the environment on demand (e.g. Lane andWeather Conditions), it will be a great help to research and development.
+
+In this research, we studied a new Virtual VSLAM for virtual environments and evaluate it for real- and virtual-environments so that our method can show similar results for both environments. Then we developed an additional system which can provide database transform that is hard to achieve in reality. We first simulate several VSLAMs in the well-known game engine for virtual environment. We show several VSLAMs such as ORB, ORB2 to be compared. Then, we reconstruct the public database into 3D map or texture to be able to modify the map in virtual environment. As a result, The researchers will be able to both process the existing database in a more suitable form for test and analyze the performance of various VSLAMs. We used AirSim simulator under the Unity game engine.
+
 ![VVSLAM Infographic](./assets/vvslam.png)
 
 ![VVSLAM Block diagram](./assets/vvslam_block.png)
