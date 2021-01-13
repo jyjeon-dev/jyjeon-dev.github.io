@@ -20,7 +20,7 @@ layout: default
 
 ![VVSLAM Block kernel](./assets/vvslam_kernel.png)
 
-VVSLAM Demo Youtube https://youtu.be/EAyqxnwDfD4
+VVSLAM Demo Youtube: [https://youtu.be/EAyqxnwDfD4](https://youtu.be/EAyqxnwDfD4)
 
 
 # Contect
